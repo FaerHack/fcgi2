@@ -149,13 +149,13 @@
     <ClCompile Include="FastCGI.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\include\fastcgi.h" />
-    <ClInclude Include="..\include\fcgiapp.h" />
-    <ClInclude Include="..\include\fcgimisc.h" />
-    <ClInclude Include="..\include\fcgio.h" />
-    <ClInclude Include="..\include\fcgios.h" />
-    <ClInclude Include="..\include\fcgi_config.h" />
-    <ClInclude Include="..\include\fcgi_stdio.h" />
+    <ClInclude Include="..\..\include\fastcgi.h" />
+    <ClInclude Include="..\..\include\fcgiapp.h" />
+    <ClInclude Include="..\..\include\fcgimisc.h" />
+    <ClInclude Include="..\..\include\fcgio.h" />
+    <ClInclude Include="..\..\include\fcgios.h" />
+    <ClInclude Include="..\..\include\fcgi_config.h" />
+    <ClInclude Include="..\..\include\fcgi_stdio.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

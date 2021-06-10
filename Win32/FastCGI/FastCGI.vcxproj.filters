@@ -29,25 +29,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\include\fastcgi.h">
+    <ClInclude Include="..\..\include\fastcgi.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgi_config.h">
+    <ClInclude Include="..\..\include\fcgi_config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgi_stdio.h">
+    <ClInclude Include="..\..\include\fcgi_stdio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgiapp.h">
+    <ClInclude Include="..\..\include\fcgiapp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgimisc.h">
+    <ClInclude Include="..\..\include\fcgimisc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgio.h">
+    <ClInclude Include="..\..\include\fcgio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\fcgios.h">
+    <ClInclude Include="..\..\include\fcgios.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
